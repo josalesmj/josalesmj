@@ -3,9 +3,9 @@
 
 - 🤝 I'm currently looking for a **backend developer job**
 
-- 🌱 I’m currently learning **Typescript, RabbitMQ and Flask**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Arduino, Javascript, Python**
+- 💬 Ask me about **Arduino, Javascript, Node-Red**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,12 +25,13 @@
 <!--Javascript-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <br>
-<!--Typescript-->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<!--Golang-->
+<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" alt="golang" width="40" height="40"/> </a>
 <!--Node-->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <!--Express-->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+
 <!--MYSQL-->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <!--MongoDB-->
